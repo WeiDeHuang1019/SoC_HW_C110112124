@@ -25,7 +25,7 @@
 - **Xilinx SDK：** 用於開發軟體並控制 PS。
 
 ## Block 設計
-
+![Block 設計](HW1_block_design.JPG)
 
 
 ## 影片
