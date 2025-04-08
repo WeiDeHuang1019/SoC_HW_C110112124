@@ -31,7 +31,7 @@
 ## 影片
 
 以下是展示 FPGA LED 跑馬燈功能的影片：
-
+[![影片](HW1_video456_thumbnail.png)](HW1_video456.mp4)
 
 
 ## 工作原理
